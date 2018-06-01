@@ -10,9 +10,12 @@ https://www.rstudio.com/
 
 Once you have R installed, you will need the following libraries:
 
-ggplot2 #Graphics library 
+ggplot2 #Graphics library
+
 forecast #Rob Hynhdman's Forecasting libabry - inclues most standard forecasting methods
+
 zoo # 1.7-10 or higher required - this is used for date formatting 
+
 scales # This is used for formatting the axis on the plots. 
 
 
